@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/a1d902b7-d9d8-43d0-93db-3c8196e65c30)
 # Angular Lifecycle Hooks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
